@@ -1,4 +1,5 @@
-# my code
+# snake game
+
 from tkinter import *
 import random
 
